@@ -26,7 +26,7 @@ This setup assumes you are operating within a virtual environment. Ensure you're
 - Once you've executed the `.bat` file, the offline model should be operational.
 - Interact using the provided Command Line Interface (CLI) for a user-friendly experience.
 
-https://github.com/Himanshu8881212/OrcaMini-7b-GGML/assets/134622172/9ccadb12-280e-4bf1-ac56-fbf56af02ae5
+![App Screenshot](https://github.com/Himanshu8881212/OrcaMini-7b-GGML/assets/134622172/9ccadb12-280e-4bf1-ac56-fbf56af02ae5)
 
 When faced with challenges, refer back to this guide.
 
