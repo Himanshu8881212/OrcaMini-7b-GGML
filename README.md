@@ -14,7 +14,7 @@ This setup assumes you are operating within a virtual environment. Ensure you're
 - Find and update the model path to the location where you saved the model inside your virtual environment.
 
 3. Editing the Notepad Bash Scripting File:
-- Find the bash scripting file provided. This might have an extension like `.sh` or similar.
+- Find the bash scripting file provided. This might have an extension like `.txt` or similar.
 - Open it in Notepad or a similar text editor.
 - Make the necessary modifications, and ensure reference the correct directory paths due to the virtual environment.
 
